@@ -35,7 +35,7 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 git clone https://github.com/anuanced/NeoCruze_Lane-PotholeDetection_Website.git
-cd Lane-and-Pothole-Detection
+cd Lane-Pothole-Detection
 ```
 
 Ensure all required dependencies are installed before execution.
