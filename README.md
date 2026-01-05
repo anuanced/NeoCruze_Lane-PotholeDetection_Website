@@ -34,7 +34,7 @@ The system processes video input obtained either from a webcam or a video file. 
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/jiyashetty28/Lane-and-Pothole-Detection.git
+git clone https://github.com/anuanced/NeoCruze_Lane-PotholeDetection_Website.git
 cd Lane-and-Pothole-Detection
 ```
 
